@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="castle_artist">David Roberts</string>
+    <string name="castle">Alcazar, Segovia, Spain</string>
+    <string name="castle_year">1836</string>
+    <string name="castle_source">David Roberts</string>
+    <string name="forest_artist">David Cox</string>
+    <string name="forest_source">David Cox</string>
+    <string name="forest">A Herefordshire Lane</string>
+    <string name="forest_year">1845</string>
+</resources>
